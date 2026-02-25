@@ -1,0 +1,71 @@
+Created at the time of February 7, 2016, 11:33PM GMT 8+.
+This is a manual note created by JaKe Elite.
+
+So I began to have interest on reviving my works once again, and my eyes focused on JakAdmin.
+I made everything I could on the script, I made the script to be 0.3.7+ compatible.
+I added an included support which is now finally working fine with the help of CallRemoteFunction.
+
+Please read the Installation Manual at the Thread, I am too sleepy to complete this manual.
+
+----------------------------------------
+
+Changes on the script:
+• SAMP 0.3.7 compatible+
+• SkinID 300 - 312 is now available in JakAdmin!
+• Repolished /stats layout design.
+• Uses an updated version of foreach [ which is now a sub-include of YSI ]
+• sscanf2 is pretty much updated as well.
+• Repolished the playing hour timer, re-coded from per player timer to global timer.
+• Removal of the Report Textdraw.
+• Removal of the complicated codings towards ShowPlayerDialog.
+• Repolished some of the messages, Improperly colored messages has been removed.
+• Replaced all the messages 'Syntax Error' to simply '[Error]'
+• Repolished the /jacmds layout design.
+• VIP System added [You can disable it], You can add more commands.
+• Include support has been placed back, Neater code than the previous include support.
+
+----------------------------------------
+
+How to add admin/vip commands on your own script?
+
+• Below of all the #include, Add #include <jadmin3>
+• You are now ready to use the functions available at the current include support+
+• To create an admin command, Simply use the CheckAdmin(playerid) function.
+
+Ex:
+if(strcmp(cmdtext, "/check", true) == 0)
+{
+if(CheckAdmin(playerid) >= 1)
+{
+SendClientMessage(playerid, -1, "/check is working.");
+}
+else
+{
+SendClientMessage(playerid, -1, "Not an admin level 1+");
+}
+return 1;
+}
+
+• To create a vip command, do the same. Use CheckVip(playerid) function. [An example is already shown above, considered it as your base code]
+
+Note; You may also set the admin/vip status of a player using SetPlayerAdmin / SetPlayerVip.
+
+----------------------------------------
+
+What else I can do with the include support+ ??
+• VIP checking/setting
+• Logging checking/setting
+• Admin checking/setting
+• Mute for both chat and commands checking/setting
+• accountID checking
+• Jail checking/setting
+• Warn checking/setting
+• Kills checking/setting
+• Deaths checking/setting
+
+----------------------------------------
+
+If you have a Q/A or Bug/Suggestion Report post it down at the thread. I am tooo sleepy to make this manual informative.
+I don't even know what I am doing now... anfanfmq22mdxzmx x0x0x0x0x0x0x0x0x0x0x0
+
+~ jaKe delit 2016
