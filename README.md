@@ -386,7 +386,7 @@ Download links below. Click to be directed to the file.
 | 3.5     | 08/21/17     | Not Working | ZippyShare  | 0.3.7         | Missing/Latest |
 | 3.4.2   | 01/26/17     | Not Working | ZippyShare  | 0.3.7         | Missing/Outdated |
 | 3.4.1   | 09/09/16     | Not Working | ZippyShare  | 0.3.7         | Missing/Outdated |
-| 3.4     | 02/07/16     | [Click](https://)   | Github  | 0.3.7         | _**Active**_/Outdated |
+| 3.4     | 02/07/16     | [Click](https://github.com/Straydet/JakAdmin3/releases/tag/3.4)   | Github  | 0.3.7         | _**Active**_/Outdated |
 | 3.3.1   | 01/11/16     | Not Working | Solidfiles  | 0.3z          | Unavailable/Outdated |
 
 ## Credits
