@@ -383,7 +383,8 @@ Download links below. Click to be directed to the file.
 
 | Version | Release Date | Link  | Upload Site | SA-MP Version | Status   |
 |---------|--------------|-------|-------------|---------------|----------|
-| 3.5     | 08/21/17     | Not Working | ZippyShare  | 0.3.7         | Missing/Latest |
+| 4.0     | 01/01/18     | [Click](https://github.com/Straydet/JakAdmin4/releases/tag/4.0) | Github  | 0.3.7         | _**Active**_/Latest |
+| 3.5     | 08/21/17     | Not Working | ZippyShare  | 0.3.7         | Missing/Outdated |
 | 3.4.2   | 01/26/17     | Not Working | ZippyShare  | 0.3.7         | Missing/Outdated |
 | 3.4.1   | 09/09/16     | Not Working | ZippyShare  | 0.3.7         | Missing/Outdated |
 | 3.4     | 02/07/16     | [Click](https://github.com/Straydet/JakAdmin3/releases/tag/3.4)   | Github  | 0.3.7         | _**Active**_/Outdated |
